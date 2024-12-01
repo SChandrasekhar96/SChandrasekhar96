@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanapala Chandra Sekhar</h1>
 <h3 align="center">Enthusiastic and driven student pursuing a Bachelor of Technology in Electronics and Communication Engineering, with a strong interest in software technologies from India.</h3>
 
-- 🌱 I’m currently learning **Web Development and Android with Java**
+- 🌱 I’m currently learning **Programming with Java and **
 
 - 👨‍💻 All of my projects are available at [https://github.com/SChandrasekhar96](https://github.com/SChandrasekhar96)
 
